@@ -1,1 +1,1 @@
-print("hiogit")
+print("hiit")
