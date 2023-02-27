@@ -1,11 +1,10 @@
-print("bla bla")
+name = input("Enter name:  ")
+print(name)
 
+surname = input("Enter your last name:  ")
+print(surname)
 
-login = input("Enter login:  ")
-pass_word = input("Enter password:  ")
-if login == "asd" and pass_word == "123":
-    print("Log in")
+age = input("Enter your age:  ")
+print(age)
 
-login = input("Enter your login:  ")
-pass_word = input("Enter password:  ")
-
+print("Wor")
